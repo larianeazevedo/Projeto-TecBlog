@@ -1,4 +1,4 @@
-# Projeto-TecBlog
+<h1 align="center"> Projeto-TecBlog </h1>
 
 <p>Esse projeto é um site de uma loja ficticia desenvolvido no curso da Udemy, com o objetivo de colocar em pratica os conhecimentos em HTML e CSS.</P>
 
@@ -10,11 +10,12 @@
  
  <hr>
  
- 
- <div>
-  <img src="https://user-images.githubusercontent.com/87542593/213313266-71e3a944-4d65-477e-858d-b4d7f3c7ad64.jpeg"/ width="700px">
-  </div>
+ <div align="center">
    <div>
-  <img src="https://user-images.githubusercontent.com/87542593/213314344-cffab906-55b0-4d99-a332-983095325bc1.jpeg"/ width="700px">
-  </div>
+   <img src="https://user-images.githubusercontent.com/87542593/213313266-71e3a944-4d65-477e-858d-b4d7f3c7ad64.jpeg"/ width="700px">
+   </div>
+   <div>
+   <img src="https://user-images.githubusercontent.com/87542593/213314344-cffab906-55b0-4d99-a332-983095325bc1.jpeg"/ width="700px">
+   </div>
+ </div>
   
